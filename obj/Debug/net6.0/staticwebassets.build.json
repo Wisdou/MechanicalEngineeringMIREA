@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "fVCXLqqX6VSH37MFiRx58W0mL/JuiyjM/hYCppbTZf8=",
+  "Source": "MechanicalEngineeringMIREA",
+  "BasePath": "_content/MechanicalEngineeringMIREA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MechanicalEngineeringMIREA\\wwwroot",
+      "Source": "MechanicalEngineeringMIREA",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\MechanicalEngineeringMIREA\\wwwroot\\",
+      "BasePath": "_content/MechanicalEngineeringMIREA",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Daniel\\source\\repos\\MechanicalEngineeringMIREA\\wwwroot\\assets\\css\\style.min.css",
+      "SourceId": "MechanicalEngineeringMIREA",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Daniel\\source\\repos\\MechanicalEngineeringMIREA\\wwwroot\\",
+      "BasePath": "_content/MechanicalEngineeringMIREA",
+      "RelativePath": "assets/css/style.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.min.css"
+    }
+  ]
+}
